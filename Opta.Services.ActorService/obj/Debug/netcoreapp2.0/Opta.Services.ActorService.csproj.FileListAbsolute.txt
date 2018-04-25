@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\bin\Debug\netcoreapp2.0\Opta.Services.ActorService.deps.json
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\bin\Debug\netcoreapp2.0\Opta.Services.ActorService.dll
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.AssemblyInfo.cs
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\bin\Debug\netcoreapp2.0\Opta.Services.ActorService.pdb
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.dll
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.pdb
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\bin\Debug\netcoreapp2.0\Opta.Services.IActor.dll
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\bin\Debug\netcoreapp2.0\Opta.Services.IActor.pdb
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\samp1\Opta.Services.ActorService\obj\Debug\netcoreapp2.0\Opta.Services.ActorService.csproj.CopyComplete

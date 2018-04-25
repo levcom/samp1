@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\bin\Debug\netcoreapp2.0\Opta.Services.IActor.deps.json
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\bin\Debug\netcoreapp2.0\Opta.Services.IActor.dll
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\bin\Debug\netcoreapp2.0\Opta.Services.IActor.pdb
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.AssemblyInfo.cs
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.dll
+C:\Users\User\source\repos\samp1\Opta.Services.IActor\obj\Debug\netcoreapp2.0\Opta.Services.IActor.pdb

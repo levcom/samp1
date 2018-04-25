@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.deps.json
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.runtimeconfig.json
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.runtimeconfig.dev.json
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.dll
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.pdb
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.AssemblyInfo.cs
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.dll
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.pdb
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\Opta.Services.ActorService.dll
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\Opta.Services.ActorService.pdb
+C:\Users\User\source\repos\samp1\samp1\obj\Debug\netcoreapp2.0\samp1.csproj.CopyComplete
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.dll.config
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\Opta.Services.IActor.dll
+C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\Opta.Services.IActor.pdb

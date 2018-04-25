@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "b3a0cd7774320cd9208d8b6f680b53eeef78d6e6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Opta.Services.ActorService/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.4.0",
+          "Apache.Ignite.NLog": "2.4.0",
+          "Opta.Services.IActor": "1.0.0"
+        },
+        "runtime": {
+          "Opta.Services.ActorService.dll": {}
+        }
+      },
+      "Apache.Ignite/2.4.0": {
+        "runtime": {
+          "lib/net40/Apache.Ignite.Core.dll": {},
+          "lib/net40/Apache.Ignite.exe": {}
+        }
+      },
+      "Apache.Ignite.NLog/2.4.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.4.0",
+          "NLog": "4.0.0"
+        },
+        "runtime": {
+          "lib/net40/Apache.Ignite.NLog.dll": {}
+        }
+      },
+      "NLog/4.0.0": {
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "Opta.Services.IActor/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.4.0"
+        },
+        "runtime": {
+          "Opta.Services.IActor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opta.Services.ActorService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.Ignite/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OYYPH7CVCAQ9axxaF7AIODsxJ78WSZWty3PXhBiI61yrKx38vhcL4rD66AM/3KJjJOnWMwm2nmRh/VC1SqBodw==",
+      "path": "apache.ignite/2.4.0",
+      "hashPath": "apache.ignite.2.4.0.nupkg.sha512"
+    },
+    "Apache.Ignite.NLog/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t7VAZmEytElCdbXw46fyw6WXYjZ6MeqnMr2QgJnrlUgtE84MmeQ2ZEpeG90HgKK67nGdSieWWJbrwaJVj+Muqg==",
+      "path": "apache.ignite.nlog/2.4.0",
+      "hashPath": "apache.ignite.nlog.2.4.0.nupkg.sha512"
+    },
+    "NLog/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GL/SmxX2CJR/198d2v7qp4yJ3dwbXCjfkbOnAogjylTvrYXoZDlG/EFPepFxJy0+fgGDCHrhy6chISUI33FwFA==",
+      "path": "nlog/4.0.0",
+      "hashPath": "nlog.4.0.0.nupkg.sha512"
+    },
+    "Opta.Services.IActor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

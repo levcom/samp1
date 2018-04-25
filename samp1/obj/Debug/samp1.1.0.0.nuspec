@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>samp1</id>
+    <version>1.0.0</version>
+    <authors>samp1</authors>
+    <owners>samp1</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Opta.Services.ActorService" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Apache.Ignite" version="2.4.0" exclude="Build,Analyzers" />
+        <dependency id="Apache.Ignite.NLog" version="2.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.runtimeconfig.json" target="lib\netcoreapp2.0\samp1.runtimeconfig.json" />
+    <file src="C:\Users\User\source\repos\samp1\samp1\bin\Debug\netcoreapp2.0\samp1.dll" target="lib\netcoreapp2.0\samp1.dll" />
+  </files>
+</package>
